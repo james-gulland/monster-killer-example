@@ -1,4 +1,4 @@
-# starting_projects
+# Monster Killer game
 
 <b>Purpose:</b> Learning JavaScript for the first time, following an online tutorial to create a mini-game in the browser using JavaScript and some
 prescribed css (not my work).
