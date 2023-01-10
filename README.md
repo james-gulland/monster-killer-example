@@ -5,6 +5,6 @@ prescribed css (not my work).
 
 <b>End result:</b> https://james-gulland.github.io/monster-killer-example/
 
-<What I learnt:</b>
+<b>What I learnt:</b>
 
 - JavaScript fundamentals: variables, if/then/else, for-loops, functions etc
